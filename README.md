@@ -20,16 +20,17 @@ Tecnologias Utilizadas
 ---
 Frontend: HTML5 e CSS3 puro (sem JavaScript).
 
---
-Link Do figma
--
-https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0
 
 Assets: Logo e imagens conceituais do projeto; fontes temáticas.
 ​
 Deploy: GitHub Pages ou similar
 
 ----------
+Link Do figma
+-
+https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0
 Licença
+
+
 --
 MIT License - para uso educacional.

@@ -19,6 +19,11 @@ Contato: Botão para comprar ingressos e localização em Santo André.
 Tecnologias Utilizadas
 ---
 Frontend: HTML5 e CSS3 puro (sem JavaScript).
+## 💻 Tecnologias e Ferramentas Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+</p>
 
 
 Assets: Logo e imagens conceituais do projeto; fontes temáticas.

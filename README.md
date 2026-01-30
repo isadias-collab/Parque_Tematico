@@ -27,11 +27,11 @@ Deploy: GitHub Pages ou similar
 
 ----------
 
-## Protótipos no Figma  
+## Protótipo no Figma  
 
 Clique abaixo para visualizar o protótipo desenvolvidos no Figma:
 
-[![Protótipo Original (Desktop)](https://img.shields.io/badge/Figma-Original%20(Desktop)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0)
+[![Protótipo Original](https://img.shields.io/badge/Figma-Original%20(Desktop)-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0)
 
 Licença
 -
